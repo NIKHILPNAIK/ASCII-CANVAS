@@ -30,7 +30,7 @@ pip install pillow
 You can watch a demo of the script in action:
 
 <video width="600" height="auto" autoplay loop muted>
-  <source src="new/work.mp4.mp4" type="video/mp4">
+  <source src="new/work.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
