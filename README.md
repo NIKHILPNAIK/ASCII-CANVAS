@@ -26,6 +26,10 @@ pip install pillow
 3. **Pixel-to-ASCII Mapping**: The script maps each pixel's intensity to an ASCII character. Characters like `@`, `#`, and `8` represent darker pixels, while characters like `.` and ` ` (space) represent lighter pixels.
 4. **ASCII Art Output**: The script generates the ASCII art as a string, which can be displayed or saved to a file.
 
+
+You can watch a demo of the script in action:
+[Click here to watch the demo video](src/work.mp4)
+
 ## How to Use
 1. Place your image in the same directory as the script.
 2. Run the script in your terminal:
