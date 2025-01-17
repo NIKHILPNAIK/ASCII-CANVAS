@@ -28,7 +28,7 @@ pip install pillow
 
 
 You can watch a demo of the script in action:
-[Click here to watch the demo video](src/work.mp4)
+[Click here to watch the demo video](work.mp4)
 
 ## How to Use
 1. Place your image in the same directory as the script.
