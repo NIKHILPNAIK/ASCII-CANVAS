@@ -28,7 +28,12 @@ pip install pillow
 
 
 You can watch a demo of the script in action:
-[Click here to watch the demo video](work.mp4)
+
+<video width="600" height="auto" autoplay loop muted>
+  <source src="work.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## How to Use
 1. Place your image in the same directory as the script.
